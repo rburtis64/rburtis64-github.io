@@ -16,7 +16,9 @@ li {
 .recent-proj .pics img {
   display: block;
   height: 250px;
-  margin: auto;
+  length: 450px;
+  margin-right: auto;
+  object-fit: contain;
 }
 
 .section {
